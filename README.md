@@ -1,4 +1,3 @@
-﻿# Digital-Clock-Analog-Clock
 # Digital Clock and Analog Clock
 
 This repository contains implementations of a digital clock and an analog clock using HTML, CSS, and JavaScript.
