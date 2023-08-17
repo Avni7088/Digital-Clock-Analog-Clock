@@ -13,7 +13,7 @@ The analog clock is created using HTML for the clock face and CSS for styling. J
 ## How to Use
 
 1. Clone the repository: `git clone git@github.com:Avni7088/Digital-Clock-Analog-Clock.git`
-2. Open the `index.html` file in a web browser.
+2. Open the `README.md` file in a web browser.
 3. You will see both the digital and analog clocks displayed on the page.
 
 Feel free to modify and experiment with the code to enhance the clocks or integrate them into your projects.
